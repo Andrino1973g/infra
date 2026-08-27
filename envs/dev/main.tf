@@ -1,5 +1,4 @@
-# ZenPharma Dev Environment — managed via GitHub Actions CI/CD
-locals {
+# ZenPharma Dev Environment — managed via GitHub Actions locals {
   project = "pharma"
   env     = "dev"
   region  = "us-east-1"
